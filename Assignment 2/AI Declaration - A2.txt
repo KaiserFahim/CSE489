@@ -1,0 +1,21 @@
+AI Declaration
+
+I declare that I used Artificial Intelligence (AI) tools in a limited capacity during the development of this project.
+
+AI was primarily used to:
+
+* Provide basic ideas and suggestions for the application's structure and interface.
+* Generate example Flutter widgets and layouts as a starting point.
+* Explain Flutter concepts, syntax and techniques.
+* Assist with resolving minor coding issues and debugging.
+
+The overall application design, project requirements, implementation decisions, code integration, testing and final modifications were completed by me. AI generated suggestions were reviewed, edited and adapted before being incorporated into the project. The AI did not independently develop the complete application and was used only as an assistive tool throughout the development process.
+
+
+Student Name: Kaiser Fahim
+
+Student ID: 22301424
+
+Course: CSE489
+
+Project Title: assignment_2
